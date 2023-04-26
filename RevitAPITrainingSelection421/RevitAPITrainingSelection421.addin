@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\APPLICATIONS\RevitAPITraining\RevitAPITrainingSelection421.dll"</Assembly>
+		<AddInId>C392FD06-A0F3-4364-A868-3FCEB84635F1</AddInId>
+		<FullClassName>RevitAPITrainingSelection421.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>трубы в эксель</Text>
+	</AddIn>
+</RevitAddIns>
